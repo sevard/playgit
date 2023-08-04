@@ -1,0 +1,8 @@
+# View all of your settings and where they are comming from
+git config --list --show-origin
+
+# Configure the default text editor that will be used when Git needs you to type in a message.
+git config --global core.editor vim
+
+# To set main as the default branch name do:
+git config --global init.defaultBranch main
