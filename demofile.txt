@@ -1,1 +1,2 @@
 This is a test file for git revert demo
+Add new line that will be removed
